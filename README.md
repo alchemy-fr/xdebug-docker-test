@@ -1,6 +1,6 @@
 This a simplified version (no symfony) of : https://dev.to/_mertsimsek/using-xdebug-with-docker-2k8o
 
-In THIS project, note (in DockerFile) : 
+In THIS alchemy project, note (in DockerFile) : 
 - xdebug.remote_port=9051
 - xdebug.idekey=mertblog.net
 - xdebug.remote_host=docker.for.mac.localhost
